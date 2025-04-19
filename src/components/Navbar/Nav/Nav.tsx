@@ -1,10 +1,9 @@
 import { nunito } from "@/config/fonts";
 import Link from "next/link";
 import {
-  RiArrowDownSLine,
   RiFacebookLine,
   RiTwitterLine,
-  RiYoutubeLine,
+  RiYoutubeLine
 } from "react-icons/ri";
 import NavLinks from "./NavLinks";
 
